@@ -2,9 +2,9 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="hadoop102" id="93197313-38ac-49e9-ac11-e1cff211d210" port="22" nameFormat="DESCRIPTIVE" username="wxg" />
-      <sshConfig authType="PASSWORD" host="hadoop103" id="35b830ee-e91e-427c-a6d9-2c766dcd762b" port="22" nameFormat="DESCRIPTIVE" username="wxg" />
-      <sshConfig authType="PASSWORD" host="hadoop104" id="1ad0ea21-9c41-461e-abd2-ec4f051156a7" port="22" nameFormat="DESCRIPTIVE" username="wxg" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="hadoop102" id="93197313-38ac-49e9-ac11-e1cff211d210" port="22" nameFormat="DESCRIPTIVE" username="wxg" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="hadoop103" id="35b830ee-e91e-427c-a6d9-2c766dcd762b" port="22" nameFormat="DESCRIPTIVE" username="wxg" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="hadoop104" id="1ad0ea21-9c41-461e-abd2-ec4f051156a7" port="22" nameFormat="DESCRIPTIVE" username="wxg" />
     </configs>
   </component>
 </project>
